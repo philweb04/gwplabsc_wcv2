@@ -1,8 +1,8 @@
-.pricing-chart-row {
-    float: left;
-    width: 30%;
-    margin-right: 23px;
+.woocommerce_options_panel .pricing-chart-field .wrap input,
+.woocommerce_options_panel .pricing-chart-field .wrap select {
+    width: 20%;
+    margin-right: 3.8%;
 }
-.add-pricing-chart {
-    margin-top: 18px !important;
+#pricing_tab_data .options_group:first-child {
+    border-bottom: 1px solid #eee;
 }
