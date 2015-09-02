@@ -1,0 +1,8 @@
+.pricing-chart-row {
+    float: left;
+    width: 30%;
+    margin-right: 23px;
+}
+.add-pricing-chart {
+    margin-top: 18px !important;
+}
