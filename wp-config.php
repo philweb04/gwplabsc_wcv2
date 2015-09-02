@@ -23,10 +23,10 @@
 define('DB_NAME', 'kulayful_db');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'gwplabsc_wcv2');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'I7hH+R0hU!RG');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
