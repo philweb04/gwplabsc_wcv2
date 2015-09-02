@@ -23,7 +23,7 @@
 define('DB_NAME', 'gwplabsc_wcv2');
 
 /** MySQL database username */
-define('DB_USER', 'gwplabsc_wcv2');
+define('DB_USER', 'gwplabsc_uwcv2');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'I7hH+R0hU!RG');
